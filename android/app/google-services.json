@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252981408495",
+    "project_id": "pushnotis-683b3",
+    "storage_bucket": "pushnotis-683b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252981408495:android:ca29915ead0dd9eee9e11a",
+        "android_client_info": {
+          "package_name": "com.example.pushnotis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252981408495-pba3k8rjvtltml2udgfjum2ffc264vvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsDzwkoeoUbvonhG8ssU_Hhcs_dvDMGrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252981408495-pba3k8rjvtltml2udgfjum2ffc264vvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
